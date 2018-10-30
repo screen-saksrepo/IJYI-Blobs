@@ -1,0 +1,255 @@
+{
+  "job": {
+    "lang": "en-US", 
+    "user_id": 18595, 
+    "name": "audio.aac", 
+    "duration": 60, 
+    "created_at": "Thu Aug 16 13:37:16 2018", 
+    "id": 9054342
+  }, 
+  "speakers": [
+    {
+      "duration": "37.49", 
+      "confidence": null, 
+      "name": "UU", 
+      "time": "17.10"
+    }
+  ], 
+  "words": [
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "Only", 
+      "time": "17.10"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "two", 
+      "time": "17.49"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "types", 
+      "time": "17.79"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "18.24"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "people", 
+      "time": "18.39"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "have", 
+      "time": "19.20"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "ever", 
+      "time": "19.47"
+    }, 
+    {
+      "duration": "0.58", 
+      "confidence": "1.000", 
+      "name": "existed", 
+      "time": "19.86"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "0.830", 
+      "name": ".", 
+      "time": "20.46"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "Those", 
+      "time": "24.78"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "who", 
+      "time": "25.11"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "run", 
+      "time": "25.26"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "25.59"
+    }, 
+    {
+      "duration": "0.93", 
+      "confidence": "1.000", 
+      "name": "Sasquatch", 
+      "time": "25.86"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.860", 
+      "name": "and", 
+      "time": "28.99"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "those", 
+      "time": "29.17"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "who", 
+      "time": "29.47"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "run", 
+      "time": "29.62"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "from", 
+      "time": "29.95"
+    }, 
+    {
+      "duration": "0.90", 
+      "confidence": "1.000", 
+      "name": "Sasquatch", 
+      "time": "30.64"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "those", 
+      "time": "38.38"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "who", 
+      "time": "38.74"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "feed", 
+      "time": "38.92"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "39.40"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "Jack", 
+      "time": "39.58"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.360", 
+      "name": "Links", 
+      "time": "39.91"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "jerky", 
+      "time": "40.24"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "0.980", 
+      "name": "protein", 
+      "time": "41.80"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "0.950", 
+      "name": "snack", 
+      "time": "42.46"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "made", 
+      "time": "42.85"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "43.21"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "100", 
+      "time": "43.42"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "percent", 
+      "time": "44.02"
+    }, 
+    {
+      "duration": "0.47", 
+      "confidence": "1.000", 
+      "name": "beef", 
+      "time": "44.47"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "52.40"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "those", 
+      "time": "52.64"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "who", 
+      "time": "53.48"
+    }, 
+    {
+      "duration": "0.41", 
+      "confidence": "0.980", 
+      "name": "don't", 
+      "time": "53.75"
+    }, 
+    {
+      "duration": "0.43", 
+      "confidence": "0.510", 
+      "name": ".", 
+      "time": "54.16"
+    }
+  ], 
+  "format": "1.0"
+}
